@@ -1,7 +1,7 @@
 # Catanet
 CATANET: A RESEARCH-BASED PRODUCT FOR METASTATIC BREAST CANCER STAGE PREDICTION USING DEEP LEARNING
 
-##Abstract 
+## Abstract 
 
 Pathologists spend hours to detect metastasis in hematoxylin and eosin (H&E) stained whole-slide images of lymph node sections. Digital pathology is a new, rapidly expanding field of medical imaging. In digital pathology, whole-slide scanners are used to digitize glass slides containing tissue specimens at high resolution (up to 160nm per pixel).
 ‘CataNet’ focuses on the detection of micro and macro metastasis in lymph node digitized images. This subject is highly relevant; lymph node metastases occur in most cancer types (e.g. breast, prostate, and colon). The lymph nodes in the underarm are the first place breast cancer is likely to spread. The project is divided into two phases.
